@@ -33,6 +33,8 @@ prota
 
 -----------
 cayenne
+http://iotdesign.embedded-computing.com/2666-raspberry-pi-iot-prototyping-remote-management-on-the-fly/
+
 
 -----------------
 beebotte
